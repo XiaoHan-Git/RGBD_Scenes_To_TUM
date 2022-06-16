@@ -19,7 +19,7 @@ Organize the original file as follows：
 
 ```
 path/
-		   -scene_01
+		   -scene_01            (01 is the sequence number)
 		   -01.pose
 ```
 
